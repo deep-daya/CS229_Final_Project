@@ -1,0 +1,7 @@
+Mean Squared Error: 334340.66
+Root Mean Squared Error: 578.22
+Mean Absolute Error: 495.46
+Median Absolute Error: 469.92
+Max Error: 1415.83
+R2 Score: 0.683
+Mean Absolute Percentage Error (MAPE): 0.0460
